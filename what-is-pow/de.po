@@ -67,7 +67,7 @@ msgstr "Miner schlägt neuen Block vor"
 
 #: what-is-pow/source-text.txt:24
 msgid "Header of the most recent block"
-msgstr "Kopfzeile des neuesten Blocks"
+msgstr "Header des neuesten Blocks"
 
 #: what-is-pow/source-text.txt:26
 msgid "NONCE (an incremental number)"
@@ -83,7 +83,7 @@ msgstr "HASH Nummer"
 
 #: what-is-pow/source-text.txt:32
 msgid "Mining Difficulty"
-msgstr "Mining-Schwierigkeit"
+msgstr "Mining Difficulty"
 
 #: what-is-pow/source-text.txt:34
 msgid "Determines"
